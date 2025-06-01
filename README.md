@@ -16,7 +16,7 @@
 
 **下載：**
 
-[點我下載Windows版]()
+[點我下載Windows版](https://github.com/ABestCookie/Pygame-practice/releases/download/dino-0.1/Dino.exe)
 
 *注：因涉及系統層面執行問題及呈現效果，程式最低運行系統建議在win7以上*
 
